@@ -1,14 +1,15 @@
-<h1>
-	Convierte notación Infija a Notación Posfija con Python 3.4
-</h1>
+<h2>
+	Convierte notación Infija a Notación Posfija 
+	Python 3.4
+</h2>
 
 
 
 <h3>
 	Acepta 
 	<ul>
-		<ol>Numeros de x Cifras</ol>
-		<ol>Variables</ol>
-		<ol>Operadores : suma, resta , multiplicaión , divición y Potencia (+,-,*,/ y ^ respectivamente)</ol>
+		<li>Numeros de x Cifras</li>
+		<li>Variables</li>
+		<li>Operadores : suma, resta , multiplicaión , divición y Potencia (+,-,*,/ y ^ respectivamente)</li>
 	</ul>
 </h3>
