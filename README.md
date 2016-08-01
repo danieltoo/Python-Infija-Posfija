@@ -19,6 +19,7 @@
 				<li>Multiplicación: *</li>
 				<li>Divición: /</li>
 				<li>Potencia: ^</li>
+				<li>Limitadores: ( )</li>
 			</ul>
 		</li>
 	</ul>
