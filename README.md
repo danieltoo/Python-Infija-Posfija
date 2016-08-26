@@ -7,13 +7,5 @@ Python 3.4 </h2>
     		<li>Variables</li>
     		<li>Operadores : suma , resta , multiplicaión , división y Potencia</li>
     		<li>Simbolos</li>
-			<ul>
-				<li>Suma: + </li>
-		        	<li>Resta: - </li>
-		        	<li>Multiplicación: * </li>
-		        	<li>Divición: / </li>
-		        	<li>Potencia: ^ </li>
-		        	<li>Limitadores: ( ) </li>
-		        </ul>
 	</ul>
 
