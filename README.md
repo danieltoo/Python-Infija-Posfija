@@ -6,6 +6,6 @@ Python 3.4 </h2>
     	Numeros de x Cifras
     	Variables
     	Operadores : suma , resta , multiplicaión , división y Potencia
-    	Simbolos
+    	Simbolos : +, - , * , / , ^
 	
 
