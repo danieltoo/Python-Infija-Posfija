@@ -10,7 +10,7 @@
 	<ul>
 		<li>Numeros de x Cifras</li>
 		<li>Variables</li>
-		<li>Operadores : suma +, resta , multiplicaión , divición y Potencia</li>
+		<li>Operadores : suma , resta , multiplicaión , división y Potencia</li>
 		<li>
 		Simbolos
 			<ul>
